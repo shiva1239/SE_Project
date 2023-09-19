@@ -1,0 +1,38 @@
+Team 39 decided to move ahead with Simplii for Project 2. We ran the project and were able to make a YouTube video describing its functionalities. However, we faced several problems and obstacles while picking and running the projects.
+
+Initially, we had gone through all of the projects, their YouTube videos, GitHub repositories, and documentation to get an idea of the projects. This helped us understand the project better and gave us an idea of the scope of expansion and the tech stack of the projects. We tried running all five projects, out of which we successfully installed and ran three. They are Simplii, Slash, and FeatureHunt. Even before we decided to go ahead with Simplii, our team goal resonated well with the idea of Simplii. As graduate students struggle to keep track of events and keep up with deadlines, an application like Simplii is something we would love to use.
+
+Issues:
+
+When we first started trying to run the projects, we encountered deprecated functions and calls. We had to downgrade the version of Python on our laptops to run the projects. Despite downgrading the Python version, we had to endure tedious debugging. After working on the changes, we could finally run the three projects mentioned above.
+
+However, Slash and FeatureHunt had code errors and issues with MongoDB. We tried several ways to fix these errors. Config variables are hardcoded in the code(MongoDB Variables) and no information was provided regarding those. As a result, it became difficult for us to clear up all the issues and make the code work. We managed to fix the errors and run the codes and applications. However, FeatureHunt requires Docker, which does not run on macOS. Therefore, we dropped the idea of working on FeatureHunt. Slash is an amazing idea but has a lot of code errors. When we ran the code, we found that the database for the project was hardcoded and was not working.
+
+
+In general, some of the common issues we faced in all the projects were as follows:
+ 
+The biggest issue we encountered was a package mismatch, which prevented the project from running successfully. We grappled with CORS (Cross-Origin Resource Sharing) issues, which we were unable to fix despite carefully following each step. We had to delve into the code ourselves to eventually run it.
+
+Some of the video instructions, in our opinion, did not adequately cover all facets of using the applications. These types of potential error cases would greatly benefit from more thorough coverage. In general, several of the example apps had limited functionality because they relied too heavily on hardcoded data and scaffolding without incorporating a database. In the majority of real-world applications, hardcoding data directly into the application code is not a scalable or maintainable strategy.
+
+Finally, after performing similar actions as were demonstrated for Windows, I encountered problems getting several applications to work correctly on Mac. For non-Windows users, having separate, specialized instructions for Mac setup would make things much easier. In the future, offering platform-specific setup instructions where necessary could help avoid hassles.
+
+Also, we found more scope for improvement in Simplii than in the other projects. Therefore, we chose to go ahead with Simplii for our second project. The above difficulties and time-consuming processes could be avoided by:
+Regularly updating the project dependencies and project version.
+Using tools that work on all operating systems.
+Upgrading the code if any tools that were used to build the project have become paid versions after the last update.
+Using a dynamic database rather than a hardcoded database
+ 
+To make sure the students who work on Simplii in the future do not have to go through the same issues as mentioned above, we will make sure to follow the following:
+ 
+Regular Upkeep: To maintain compatibility with upcoming software versions, we will regularly update the project's dependencies and libraries.
+Complete Documentation: We pledge to offer Project 2's installation instructions, troubleshooting manuals, and code comments in their entirety.
+Testing in Advance: We will proactively test the project's compatibility with future environments beforehand to find and fix problems early.
+Time management: To avoid delays caused by unforeseen problems, we will provide enough time for project setup and troubleshooting.
+Backup Plans: In the event of overwhelming difficulties, we will have ideas for backup projects to guarantee timely completion.
+
+
+
+We understand the difficulties encountered while managing this project and want to implement better practices to improve the experience going forward. Our goal is to streamline the project management and development of Simplii to make it run more smoothly.
+ 
+
