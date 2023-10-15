@@ -24,11 +24,33 @@
 | The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | 301   | 283   |
 | Issues are discussed before closing | 301   | 283   |
 | Chat channles: exist | 301   | 283   |
+| Github Discussions | 301   | 283   |
+| Test cases: a large propotion of the issues related to handling failing cases | 301   | 283   |
+| Evidence that the whole team is using the same tools: everyone can get to all tools and files | 301   | 283   |
+| Evidence that the whole team is using the same tools: eg:tutor can ask anyone to share the screen, they demonstrate the system running on their computer | 301   | 283   |
+| Evidence that the members of the team are working accross multiple places in the code base | 301   | 283   |
+| Short release cycles | 301   | 283   |
+| Does your website and documentation provide a clear, high-level overview of your software? | 301   | 283   |
+| Does your website clearly describe the type of user who should use your software? | 301   | 283   |
+| Do you publish case studies to show how your software has been used by yourself and others? | 301   | 283   |
+| Is the name of your project/software unique? | 301   | 283   |
 |  | 301   | 283   |
 |  | 301   | 283   |
 |  | 301   | 283   |
 |  | 301   | 283   |
 |  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+
 
 
 
