@@ -19,16 +19,16 @@
 | Use of syntax checkers | 301   | 283   |
 | Use of code coverage | 301   | 283   |
 | Other automated analysis tools | 301   | 283   |
-| Other automated analysis tools | 301   | 283   |
-| Other automated analysis tools | 301   | 283   |
-| Other automated analysis tools | 301   | 283   |
-| Other automated analysis tools | 301   | 283   |
-| Other automated analysis tools | 301   | 283   |
-| Other automated analysis tools | 301   | 283   |
-| Other automated analysis tools | 301   | 283   |
-| Other automated analysis tools | 301   | 283   |
-| Other automated analysis tools | 301   | 283   |
-| Other automated analysis tools | 301   | 283   |
+| Test Cases Exist | 301   | 283   |
+| Test cases routinely executed | 301   | 283   |
+| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | 301   | 283   |
+| Issues are discussed before closing | 301   | 283   |
+| Chat channles: exist | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
+|  | 301   | 283   |
 
 
 
