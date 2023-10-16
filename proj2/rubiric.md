@@ -34,19 +34,19 @@
 | Does your website clearly describe the type of user who should use your software? | 301   | 283   |
 | Do you publish case studies to show how your software has been used by yourself and others? | 301   | 283   |
 | Is the name of your project/software unique? | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
+| Is your project/software name free from trade mark violations? | 301   | 283   |
+| Is your software available as a package that can be deployed without building it? | 301   | 283   |
+| Is your software available for free? | 301   | 283   |
+| Is your source code available publicly to donwload, either as a downlaodable bundle or via access to a source code repository | 301   | 283   |
+| Is your software hosted in an estavlished third party repository like GitHub, BitBucket,LaunchPad or SourceForge | 301   | 283   |
+| Is your documentation clearly available on your website or within your software | 301   | 283   |
+| Does your documentation include a "quick start" guide that provides a short overview of how to use your software with some basic examples of use? | 301   | 283   |
+| If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to dpeloy and use your software | 301   | 283   |
+| Do you provide a comprehensive guide to all your software's commands, functions and options? | 301   | 283   |
+| Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages? | 301   | 283   |
+| If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation? | 301   | 283   |
+| Do you store your documentation under revision control with your source code? | 301   | 283   |
+| Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation? | 301   | 283   |
 |  | 301   | 283   |
 |  | 301   | 283   |
 |  | 301   | 283   |
