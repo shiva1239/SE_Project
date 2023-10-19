@@ -102,10 +102,10 @@ e.g. release announcements, publications, workshops, conference presentations | 
 | Is your software released under an open source licence? | 301   | 283   |
 | Is your software released under an OSI-approved open-source licence? | 301   | 283   |
 |  Does each of your source code files include a licence header? | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
+| Do you have a recommended citation for your software? | 301   | 283   |
+| Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)? | 301   | 283   |
+| Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? | 301   | 283   |
+| Do you make timely announcements of the deprecation of components, APIs, etc.? | 301   | 283   |
 |  | 301   | 283   |
 |  | 301   | 283   |
 |  | 301   | 283   |
