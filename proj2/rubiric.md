@@ -98,10 +98,10 @@ e.g. release announcements, publications, workshops, conference presentations | 
 | Do contributors keep the copyright/IP of their contributions? | 301   | 283   |
 | Does your website and documentation clearly state the copyright owners of your software and documentation? | 301   | 283   |
 | Does each of your source code files include a copyright statement? | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
-|  | 301   | 283   |
+| Does your website and documentation clearly state the licence of your software? | 301   | 283   |
+| Is your software released under an open source licence? | 301   | 283   |
+| Is your software released under an OSI-approved open-source licence? | 301   | 283   |
+|  Does each of your source code files include a licence header? | 301   | 283   |
 |  | 301   | 283   |
 |  | 301   | 283   |
 |  | 301   | 283   |
